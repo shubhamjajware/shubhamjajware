@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shubhamjajware
-- 👀 I’m working as a full stack developer
-- 🌱 I’m working on stuff built on top of AngularJs, Angular , SPringBoot
+- 👀 I’m working as a full stack developer- 🌱 I’m working on stuffs built on top of AngularJs, Angular, Typescript, JavaScript , SpringBoot, Java 8, java 17, Hibernate
+- I'm interested in the new horizon of AI & ML and how we can integrate solution on top of java frameworks.
+- Also interested in exploring new languages such as python, go....
 - 💞️ I’m looking to collaborate on new projects for learning and applying the concepts of full stack develoment
 - 📫 For any sort of collaboration feel free to reach out at
 - shubham.raj53@yahoo.in
